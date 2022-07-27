@@ -16,7 +16,7 @@ const particlesOptions = {
       value: "linear-gradient(to left, #a0b73b 0% , #2468fc)",
     },
   },
-  fpsLimit: 40,
+  fpsLimit: 120,
   interactivity: {
     events: {
       onHover: {
@@ -44,7 +44,7 @@ const particlesOptions = {
         default: "bounce",
       },
       random: false,
-      speed: 1.5,
+      speed: 1.2,
       straight: false,
     },
     number: {
@@ -52,7 +52,7 @@ const particlesOptions = {
         enable: false,
         area: 700,
       },
-      value: 50,
+      value: 20,
     },
     opacity: {
       value: 0.5,
@@ -61,7 +61,7 @@ const particlesOptions = {
       type: "circle",
     },
     size: {
-      value: { min: 1, max: 5 },
+      value: { min: 3, max: 8 },
     },
   },
   detectRetina: true,
