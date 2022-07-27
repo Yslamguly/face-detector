@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Yslamguly/face-detector/static/css/main.3a6dcd61.chunk.css",
+    "main.js": "/Yslamguly/face-detector/static/js/main.ecc08505.chunk.js",
+    "main.js.map": "/Yslamguly/face-detector/static/js/main.ecc08505.chunk.js.map",
+    "runtime-main.js": "/Yslamguly/face-detector/static/js/runtime-main.417c469b.js",
+    "runtime-main.js.map": "/Yslamguly/face-detector/static/js/runtime-main.417c469b.js.map",
+    "static/css/2.75261d94.chunk.css": "/Yslamguly/face-detector/static/css/2.75261d94.chunk.css",
+    "static/js/2.2607284d.chunk.js": "/Yslamguly/face-detector/static/js/2.2607284d.chunk.js",
+    "static/js/2.2607284d.chunk.js.map": "/Yslamguly/face-detector/static/js/2.2607284d.chunk.js.map",
+    "static/js/3.5de3ceb6.chunk.js": "/Yslamguly/face-detector/static/js/3.5de3ceb6.chunk.js",
+    "static/js/3.5de3ceb6.chunk.js.map": "/Yslamguly/face-detector/static/js/3.5de3ceb6.chunk.js.map",
+    "index.html": "/Yslamguly/face-detector/index.html",
+    "static/css/2.75261d94.chunk.css.map": "/Yslamguly/face-detector/static/css/2.75261d94.chunk.css.map",
+    "static/css/main.3a6dcd61.chunk.css.map": "/Yslamguly/face-detector/static/css/main.3a6dcd61.chunk.css.map",
+    "static/js/2.2607284d.chunk.js.LICENSE.txt": "/Yslamguly/face-detector/static/js/2.2607284d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.417c469b.js",
+    "static/css/2.75261d94.chunk.css",
+    "static/js/2.2607284d.chunk.js",
+    "static/css/main.3a6dcd61.chunk.css",
+    "static/js/main.ecc08505.chunk.js"
+  ]
+}
