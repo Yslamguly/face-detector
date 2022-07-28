@@ -4,6 +4,8 @@ These instructions will get you a copy of the project up and running on your loc
 # Prerequisites
 You will need [Git](https://git-scm.com/) and [NodeJs](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com/)) installed on your computer. Also you can use [Yarn](https://yarnpkg.com/) instead of NPM.
 
+You will need to register to [Clarifai](https://www.clarifai.com) and create your own API KEY. For more information [click](https://help.clarifai.com/hc/en-us/articles/4408756817047-How-do-I-use-a-Clarifai-s-pre-built-model-through-the-API-)
+
 # How to use 🛠
 ### From your command line:
 
