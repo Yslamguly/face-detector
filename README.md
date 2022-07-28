@@ -1,3 +1,12 @@
+# About this project 💡
+Face detector will detect faces in the picture you give.
+
+# What I learned building this project 📚
+
+- How to call API
+- How to use Clarifai API
+
+
 # Getting started 🚀?
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
