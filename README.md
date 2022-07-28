@@ -7,7 +7,7 @@ Face detector will detect faces in the picture you give.
 - How to use Clarifai API
 
 
-# Getting started 🚀?
+# Getting started?🚀
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 # Prerequisites
