@@ -3,7 +3,7 @@ Face detector will detect faces in the picture you give.
 
 # What I learned building this project 📚
 
-- How to call API
+- How to call and interact with API
 - How to use Clarifai API
 
 
