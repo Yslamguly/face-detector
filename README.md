@@ -31,4 +31,10 @@ You will need to register to [Clarifai](https://www.clarifai.com) and create you
 1. Install dependencies: `yarn`
 2. Start the project: `yarn start`
 
+#### Packages used in this project:
+1.[react-tsparticles] (https://www.npmjs.com/package/react-tsparticles)
+2.[tacyons] (http://tachyons.io)
+3.[react-parallax-tilt] (https://www.npmjs.com/package/react-parallax-tilt)
+4.[clarifai] (https://www.npmjs.com/package/clarifai)
+
 ### Once your server has started, go to this url http://localhost:3000/ to see the project locally. It should look like [here](https://yslamguly.github.io/face-detector/).
