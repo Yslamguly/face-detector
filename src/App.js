@@ -8,7 +8,7 @@ import Clarifai from 'clarifai';
 import FaceRecognition from "./components/FaceRecognition/FaceRecognition";
 
 const app = new Clarifai.App({
-  apiKey : 'YOUR CLARIFAI KEY'
+  apiKey : '5f1aa879e6c647029a7ccca461a5454e'
 });
 const particlesOptions = {
   background: {
